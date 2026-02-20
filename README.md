@@ -29,10 +29,15 @@ This project is a RESTful E-commerce Backend API developed using Python and SQL.
 
 • Postman API Testing
 
+
 🚀 Installation
+
 git clone https://github.com/username/ecommerce-backend-api.git
+
 cd ecommerce-backend-api
+
 pip install -r requirements.txt
+
 python app.py
 
 
@@ -40,11 +45,17 @@ python app.py
 
 
 Git Commands to Push
+
 git init
+
 git add .
+
 git commit -m "Initial commit - E-commerce Backend API"
+
 git branch -M main
+
 git remote add origin https://github.com/Nithin-099/ecommerce-backend-api.git
+
 git push -u origin main
 
 
