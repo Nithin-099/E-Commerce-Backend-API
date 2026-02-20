@@ -49,7 +49,12 @@ git push -u origin main
 
 
 
+How to Run
+python app.py
 
+Server runs at:
+
+http://127.0.0.1:5000
 
 
 
