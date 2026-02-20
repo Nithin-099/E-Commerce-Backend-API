@@ -44,7 +44,7 @@ git init
 git add .
 git commit -m "Initial commit - E-commerce Backend API"
 git branch -M main
-git remote add origin https://github.com/yourusername/ecommerce-backend-api.git
+git remote add origin https://github.com/Nithin-099/ecommerce-backend-api.git
 git push -u origin main
 
 
